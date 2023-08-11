@@ -1,0 +1,43 @@
+Format: (CHANGE ALL CHOICES TO ONE WORD ONLY)
+
+Topic
+(Question Number - automatically assigned)
+Question
+Choice 1
+Choice 2
+Choice 3
+Answer
+
+Literature
+1
+What is the sonnet number of William Shakespeare that begins with "Shall I Compare Thee to a Summers Day"?
+81
+11
+18
+18 (A)
+
+Geography
+1
+Where is the shortest border in the world located?
+Vatican-Italy
+Spain-Morocco
+Russia-China
+Spain-Morocco (A)
+
+Geography
+2
+
+
+Politics
+In what year will Hong Kong be returned to China?
+2100
+2047
+2050
+2047 (A)
+
+Music
+How many songs did Taylor Swift sing in her Era's Tour?
+53
+38
+44
+44 (A)
